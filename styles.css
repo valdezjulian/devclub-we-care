@@ -82,6 +82,26 @@ p {
     color: #000000;
 }
 
+footer {
+    padding: 1.3rem;
+    width: 100%;
+    position: relative;
+    bottom: 0;
+    margin-top: 3%;
+    text-align: center;
+    color: #ffffff;
+    background:  #665AE1
+}
+  
+h3 {
+    color: #ffffff;
+    font-size: 100%;
+}
+  
+a {
+    color:#ffffff;
+}
+
 @media (max-width: 800px) {
 
 .wrapper {
