@@ -1,4 +1,4 @@
-<h1>🐕🧼🐈We Care About Your Pet</h1>
+<h1>🐕🧼🐈 We Care About Your Pet</h1>
 <br>
 <p>Explore este projeto inovador criado com carinho no <a href="http://rofolfomori.com.br/devclub">DevClub</a>, 
   pensado para proporcionar uma experiência fluida aos usuários. Nossa página de destino foi cuidadosamente desenvolvida 
